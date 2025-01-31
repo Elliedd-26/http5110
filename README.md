@@ -1,2 +1,3 @@
 # http5110
-html
+This is the web dev intro class
+
